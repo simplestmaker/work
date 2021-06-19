@@ -1,9 +1,4 @@
-/*
- * @Author: RYPY
- * @Date: 2020-12-03 10:00:45
- * @LastEditors: RYPY
- * @LastEditTime: 2020-12-03 10:12:14
- */
+
 const express=require("express");
 const path=require("path");
 const session=require("express-session");
