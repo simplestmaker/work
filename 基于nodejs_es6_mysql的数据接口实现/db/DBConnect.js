@@ -1,7 +1,7 @@
 /*
- * @Author: RYPY
+ * @Author: 赵洪波
  * @Date: 2020-12-03 10:01:43
- * @LastEditors: RYPY
+ * @LastEditors: zhaohongbo
  * @LastEditTime: 2020-12-06 16:27:28
  */
 const mysql=require("mysql");
