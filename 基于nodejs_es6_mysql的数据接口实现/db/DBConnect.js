@@ -1,9 +1,4 @@
-/*
- * @Author: 赵洪波
- * @Date: 2020-12-03 10:01:43
- * @LastEditors: zhaohongbo
- * @LastEditTime: 2020-12-06 16:27:28
- */
+
 const mysql=require("mysql");
 const db_config=require("./db_config");
 class DBConnect{
